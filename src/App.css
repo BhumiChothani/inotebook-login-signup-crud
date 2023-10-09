@@ -1,0 +1,11 @@
+i{
+    cursor: pointer;
+    width: 30px;
+    font-size: 20px;
+}
+
+i:hover{
+    transform: scale(1.2);
+    color: rgb(30, 51, 148);
+    background-color: #36a1d6;
+}
